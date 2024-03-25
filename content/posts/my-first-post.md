@@ -9,5 +9,5 @@ This is **bold** text, and this is *emphasized* text.
 Visit the [Hugo](https://gohugo.io) website!
 
 ```fsharp
-let a = b * 5
+let a = b * 10
 ```
