@@ -1,16 +1,13 @@
 ---
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Journey Through My Lens
 comments: false
 ---
 
-My name is Jeegar Dalal. I have the following qualities:
+Hi there! I’m Jeegar Dalal, and I’m passionate about Quality Assurance (QA) and Automation. With more than 11 years of experience in the field, I’ve honed my skills in QA Automation tools and technologies.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I have started this blog to share my insights, experiences, and the lessons I’ve learned along the way. Whether you’re a seasoned QA professional or just starting out, I hope to provide valuable content that will help you in your journey.
 
-What else do you need?
+When I’m not busy breaking software to make it better, you can find me watching cricket or movies. 
 
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Thank you for visiting my blog. If you have any questions or would like to connect, feel free to reach me out at [my linkedIn profile](https://www.linkedin.com/in/jeegar-dalal/).
